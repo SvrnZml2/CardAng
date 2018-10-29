@@ -1,0 +1,23 @@
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .menu {
+        margin-left: 50%;
+        ul {
+            li {
+                margin: 0 5px !important;
+            }
+        }
+    }
+    .bloc-foot{
+        ul{
+            display: flex;
+            flex-direction: column;
+            height: 150px;
+
+        }
+    }
+   
+}

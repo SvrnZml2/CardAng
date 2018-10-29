@@ -1,0 +1,30 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,600');
+
+// Variables
+@import 'variables';
+//Divers css template
+@import "bootstrap.min";
+@import "animate.min";
+@import "magnific-popup";
+@import "plugins";
+@import "navigation-menu";
+@import "styleMain";
+@import "shortcodes";
+
+
+//Smartphone
+@import 'smartphone';
+//Tablettes
+@import 'tablette';
+//Md-screen
+@import 'md-screen';
+//Lg-screen
+@import 'lg-screen';
+//Xl-screen
+@import 'xl-screen';
+// .navbar-laravel {
+//   background-color: rgb(211, 125, 125);
+//   box-shadow: 0 2px 4px rgba(206, 10, 10, 0.04);
+// }
